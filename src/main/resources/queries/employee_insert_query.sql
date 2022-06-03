@@ -1,0 +1,1 @@
+INSERT INTO `local_db1`.`employee` VALUES (?,?,?,?,?);

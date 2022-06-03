@@ -1,0 +1,1 @@
+INSERT INTO `local_db1`.`department` (dept_id, e_id, dept_name) VALUES (?,?,?);
